@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+.t1{
+    font-size: 50px;
+    color: aliceblue;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    top:450px;
+}
